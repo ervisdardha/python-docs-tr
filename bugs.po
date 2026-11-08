@@ -70,6 +70,9 @@ msgid ""
 "documentation, please submit a bug report on the `python-doc-theme bug "
 "tracker <https://github.com/python/python-docs-theme>`_."
 msgstr ""
+"Bu dokümantasyonun temasında (HTML / CSS / JavaScript) bir hata bulursanız, "
+"lütfen `python-doc-theme hata takipçisine <https://github.com/python/python-"
+"docs-theme>`_ bir hata raporu gönderin."
 
 #: bugs.rst:29
 msgid ""
